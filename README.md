@@ -18,6 +18,11 @@ This is a simple web project, deployment can be on any web server or even local 
 
 Please fork this repository and then issue Pull Requests for review.
 
+## Contact
+
+Marcel Rufino de Carvalho
+marcelrufino@gmail.com
+
 ## Copyright
 
 2022 Git. Training. All rights reserved.
