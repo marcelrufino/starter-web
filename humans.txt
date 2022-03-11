@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marcel Rufino	marcelrufino@gmail.com	@marcelrufino
 
 # THANKS
 
